@@ -1,0 +1,36 @@
+_repo: Virran-kummitus-Kertomus-intiaanimetsista_60539
+_version: 0.0.1
+alternative_title: The phantom of the river. Finnish
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - LaSalle, Charles E.
+    - Hawthorne, R. M.
+    - Randolph, Geoffrey
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+    wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60539'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Juvenile fiction'
+- !lcsh 'Kenton, Simon, 1755-1836 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boone, Daniel, 1734-1820 -- Juvenile fiction'
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- GITenberg
+title: 'Virran kummitus: Kertomus intiaanimetsistä'
+url: http://www.gutenberg.org/ebooks/60539
