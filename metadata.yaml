@@ -1,6 +1,9 @@
 _repo: Virran-kummitus-Kertomus-intiaanimetsista_60539
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The phantom of the river. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2569
     wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60539#Virran-kummitus-Kertomus-intiaanimetsista
 gutenberg_issued: '2019-10-21'
 gutenberg_type: Text
 identifiers:
